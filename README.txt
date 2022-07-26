@@ -1,0 +1,3 @@
+Larval Growth Model - May 8, 2014
+
+This is a simple variation on a population growth model that I composed in undergrad. This follows two types of marine larval invertebrates, Hydroides (a worm) and Dendraster (a sand dollar). These larvae use two different mechanisms to catch food particles. Hydroides uses opposed band feeding, while Dendraster uses ciliary reversal. This model attempts to predict the proportion of individuals that reach metamorphosis in each group when they are placed in environments with different ratios of food particle sizes available. Particle clearance rates were based on unpublished, preliminary experiments.
